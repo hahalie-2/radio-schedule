@@ -1,0 +1,10 @@
+.tabs {
+    overflow: hidden;
+}
+.tabText a {
+    color:white !important
+}
+
+.tabText a.active {
+    color:white !important
+}
